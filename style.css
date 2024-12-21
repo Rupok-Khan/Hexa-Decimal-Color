@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(160, 97, 15);
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    padding-top: 100px;
+}
+#box1{
+  
+    
+    
+}
+input{
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 5px;
+}
+
+#btn{
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 1.3rem;
+    border-radius: 8px;
+    background-color: blueviolet;
+    color: white;
+    margin-top: 10px;
+}
+#copy{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.3rem;
+    border-radius: 8px;
+    background-color: rgb(249, 255, 255);
+    color: rgb(0, 0, 0);
+   
+}
